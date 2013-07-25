@@ -1,0 +1,14 @@
+{
+  "name":"wine-cellar",
+  "description":"Wine Cellar application",
+  "version":"0.0.1",
+  "private":"true",
+  "dependencies": {
+    "express":"3.1.0",
+    "mongodb": "1.2.14"
+  },
+  "engines": {
+    "node": "0.8.21",
+    "npm": "1.2.12"
+  }
+}
